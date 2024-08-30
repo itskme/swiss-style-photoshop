@@ -2,3 +2,6 @@
 
 
 Expereimenting with swiss style graphic design in photoshop. Repo contains 3 seperate projects before that was outlawed by the arcade rules. See all three in the image above.
+
+
+If you want to use these, you can modify the .psd files to your liking or use these independently if you want however you want. I claim these images as public domain.
